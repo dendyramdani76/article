@@ -1,0 +1,25 @@
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.tabs{
+	margin-bottom: 20px !important;
+}
+.tabs .tab a{
+	color: #bdbdbd !important;
+}
+.tabs .tab a:hover, .tabs .tab a.active{
+	color: #424242 !important;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active{
+	background-color: #bdbdbd !important;
+}
+.tabs .indicator{
+	background-color: #424242 !important;
+}
+.no-margin{
+	margin: 0 !important;
+}
